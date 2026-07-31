@@ -1,0 +1,6 @@
+{
+  "name": "Bengali Video Marketing Landing Page",
+  "description": "Interactive video marketing landing page with live video thumbnail, calling cards, top notifications, and ad link integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
