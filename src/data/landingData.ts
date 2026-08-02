@@ -1,4 +1,4 @@
-export const AD_LINK = 'https://awfullylurkgradually.com/cx3hewh6q?key=4b21322bedb3ad71867e8425713cf548';
+export const AD_LINK = 'https://beastlyfluke.com/twc5hihq7?key=b1d27abb2c8fda6ce10fd077f6ba1782';
 
 export interface VideoThumbnail {
   id: string;
